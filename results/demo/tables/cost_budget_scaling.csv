@@ -1,0 +1,4 @@
+budget,celf_seconds_excl_initial,initial_gain_seconds,gain_evaluations,peak_mb
+1,0.00341,0.17670,600,0.20676
+5,0.02060,0.17670,607,0.20891
+10,0.05423,0.17670,637,0.21456

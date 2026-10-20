@@ -1,0 +1,27 @@
+{
+  "raw_ratings": 664824,
+  "raw_users_with_ratings": 40163,
+  "raw_items": 139738,
+  "raw_trust_edges": 487183,
+  "raw_self_trust": 181,
+  "core_ratings": 305941,
+  "core_users": 20713,
+  "core_items": 5540,
+  "core_trust_edges": 350968,
+  "n_users": 3000,
+  "n_items": 4736,
+  "n_ratings": 86181,
+  "n_trust_edges": 136331,
+  "density": 0.0060656672297297294,
+  "users_without_ratings": 0,
+  "users_with_lt5_ratings": 333,
+  "median_ratings_per_user": 17.0,
+  "rating_distribution": {
+    "1": 6666,
+    "2": 8092,
+    "3": 11022,
+    "4": 24515,
+    "5": 35886
+  },
+  "reciprocal_trust_fraction": 0.4707366629746719
+}

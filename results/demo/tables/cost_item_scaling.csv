@@ -1,0 +1,13 @@
+items,ratings,operation,seconds,peak_mb
+100,2900,mf_fit,0.02526,1.05308
+100,2900,knn_fit,0.01404,14.56895
+100,2900,mf_score_top10_all_users,0.00172,1.24858
+100,2900,knn_score_top10_all_users,0.00546,2.56955
+200,4668,mf_fit,0.02938,1.28088
+200,4668,knn_fit,0.01435,14.65489
+200,4668,mf_score_top10_all_users,0.00187,2.47416
+200,4668,knn_score_top10_all_users,0.00987,4.98634
+400,7212,mf_fit,0.03878,1.67398
+400,7212,knn_fit,0.01722,14.78050
+400,7212,mf_score_top10_all_users,0.00560,4.91093
+400,7212,knn_score_top10_all_users,0.01917,9.80568

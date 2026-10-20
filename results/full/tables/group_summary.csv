@@ -1,0 +1,4 @@
+strategy,sat_mean_mean,sat_mean_std,sat_min_mean,sat_min_std,sat_max_mean,sat_max_std,sat_std_mean,sat_std_std,frac_satisfied_mean,frac_satisfied_std,frac_miserable_mean,frac_miserable_std,spread_mean_mean,spread_mean_std,member_adopters_mean,member_adopters_std,is_max_spread_item_mean,is_max_spread_item_std,spread_ratio_to_best_mean,spread_ratio_to_best_std,spearman_score_vs_spread_mean,spearman_std
+average,4.61977,0.16119,4.24719,0.28350,4.93572,0.09880,0.26914,0.10834,0.95625,0.09620,0.00000,0.00000,66.29000,37.39871,3.55850,0.15574,0.45000,0.50383,0.90966,0.12290,0.55077,0.34184
+least_misery,4.59727,0.18481,4.18729,0.45805,4.92977,0.10931,0.29004,0.18934,0.93750,0.10963,0.00625,0.03953,64.22250,37.25512,3.52400,0.19259,0.47500,0.50574,0.87624,0.15180,0.45708,0.43692
+most_pleasure,4.42805,0.27176,4.02104,0.34786,4.81860,0.28404,0.30865,0.12266,0.85000,0.17723,0.00000,0.00000,53.82950,36.60386,3.33550,0.32130,0.17500,0.38481,0.71999,0.24552,0.33130,0.40794

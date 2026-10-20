@@ -1,0 +1,4 @@
+pool,pairs,mean_pool_size,pairs_with_3plus_corated,residual_corr_mean,test_coverage,rmse_all_test,rmse_where_all_pools_cover,rmse_baseline_same_pairs,rmse_where_pool_covers
+friends,9958,16.68007,0.13939,0.00453,0.56753,1.06417,1.00998,0.96566,1.02738
+similar_unconnected,8677,14.53434,0.26853,0.56043,0.54241,1.07877,1.04933,0.96566,1.07323
+random_unconnected,9958,16.68007,0.04338,-0.05626,0.24689,1.07407,1.08802,0.96566,1.13173

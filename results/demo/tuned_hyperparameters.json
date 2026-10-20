@@ -1,0 +1,11 @@
+{
+  "knn_k": 50,
+  "knn_damping": 1.0,
+  "knn_shrink": 10.0,
+  "mf_factors": 10,
+  "mf_reg": 10.0,
+  "mf_iters": 15,
+  "reg_bias": 3.0,
+  "social_reg": 10.0,
+  "social_beta": 10.0
+}

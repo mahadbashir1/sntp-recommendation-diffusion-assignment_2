@@ -1,0 +1,8 @@
+method,distinct_items_mean,distinct_items_std,target_true_pref_mean,target_true_pref_std,target_pref_ge4_mean,target_pref_ge4_std,observed_hit_rate_mean,observed_hit_rate_std,adopters_mean,adopters_std,seed_adopters_mean,seed_adopters_std,secondary_adopters_mean,secondary_adopters_std,adopter_pref_mean,adopter_pref_std,adopters_satisfied_frac_mean,adopters_satisfied_frac_std,exposed_mean,exposed_std,unwanted_exposures_mean,unwanted_exposures_std,exposed_not_adopted_mean,exposed_not_adopted_std,adopters_std_mean,adopters_std_std
+hybrid_eta=0,5.00000,,4.76888,,1.00000,,0.00000,,197.10000,,36.66667,,160.43333,,4.75204,,0.97680,,176.60000,,0.10000,,16.56667,,50.94988,
+hybrid_eta=0.5,2.00000,,4.76708,,1.00000,,0.00000,,175.06667,,36.16667,,138.90000,,4.76878,,0.98637,,150.46667,,0.00000,,12.30000,,49.38956,
+hybrid_eta=1,3.00000,,4.71746,,0.97500,,0.00000,,168.40000,,36.20000,,132.20000,,4.76592,,0.97894,,144.73333,,0.00000,,12.96667,,40.11284,
+knn,27.00000,,4.30046,,0.77500,,0.05000,,172.46667,,32.43333,,140.03333,,4.45938,,0.88397,,168.06667,,0.70000,,28.06667,,66.07205,
+mf,7.00000,,4.76769,,1.00000,,0.00000,,196.50000,,36.33333,,160.16667,,4.74103,,0.97548,,176.86667,,0.06667,,17.10000,,68.58656,
+popularity,3.00000,,4.09789,,0.60000,,0.05000,,108.93333,,28.70000,,80.23333,,4.35479,,0.79050,,101.80000,,2.70000,,22.20000,,29.34500,
+social_mf,5.00000,,4.76888,,1.00000,,0.00000,,179.00000,,36.70000,,142.30000,,4.74915,,0.97762,,155.86667,,0.13333,,13.90000,,53.97283,

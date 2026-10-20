@@ -1,0 +1,4 @@
+network,edges,reciprocity,clustering
+real,28157,0.63252,0.42647
+degree_preserving,24407,0.17585,0.34451
+erdos_renyi,27021,0.07624,0.14442

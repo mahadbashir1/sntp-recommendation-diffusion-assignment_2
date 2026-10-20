@@ -1,0 +1,9 @@
+operation,seconds,peak_mb
+knn_fit,1.97568,407.19984
+mf_fit,0.32917,17.16783
+social_mf_fit,0.34413,17.74593
+graph_build,0.50016,564.26231
+ic_100_simulations,0.01091,0.12262
+im_initial_gains,0.39993,3.69790
+im_celf_k10,0.06988,2.80513
+naive_greedy_k50_estimated (main network),146.57827,
