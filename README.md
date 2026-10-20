@@ -16,7 +16,7 @@ All code is plain Python functions; it uses no classes.
 ## 1. Folder map
 
 ```
-23F3011_SNTP_Assignment/
+23F3011_SNTP_Assignment_2/
 ├── README.md                  <- this file
 ├── requirements.txt           <- exact dependency versions
 ├── config/config.json         <- every experiment setting, random seed and grid ('demo' and 'full' profiles)
@@ -44,7 +44,7 @@ All code is plain Python functions; it uses no classes.
 │   │   └── figures/*.png      <- every figure used in the report
 │   └── demo/                  <- results of the small demonstration run
 └── report/
-    └── 23F3011_SNTP_Assignment_Report.pdf   <- written report (searchable PDF)
+    └── 23F3011_SNTP_Assignment_2_Report.pdf <- written report (searchable PDF)
 ```
 
 ## 2. Software environment
